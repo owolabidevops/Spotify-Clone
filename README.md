@@ -1,3 +1,8 @@
+![wel](https://user-images.githubusercontent.com/48913682/93649711-87993780-fa04-11ea-93aa-550f2b593786.PNG)
+![spotify-clone](https://user-images.githubusercontent.com/48913682/93649716-89fb9180-fa04-11ea-9932-ea507680ac54.PNG)
+![Auth](https://user-images.githubusercontent.com/48913682/93649722-8bc55500-fa04-11ea-94a2-7f10abaa37e6.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
